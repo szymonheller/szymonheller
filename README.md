@@ -1,9 +1,8 @@
-Stay awhile and listen!
+## Stay awhile and listen...
 
+Hey, I'm Szymon Heller!
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything
-- 📫 Contact: 
-              -email: hellerszymon70@gmail.com
-              -linkedin: linkedin.com/in/szymon-heller/
-- ⚡ Fun fact: ...
+I'm a web developer, living in Poland and currently looking for a job.  
+
+## What I'm doing
+I’m currently learning JavaScript and React.js
