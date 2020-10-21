@@ -1,4 +1,4 @@
-## Stay awhile and listen...
+## Stay awhile and listen
 
 Hey, I'm Szymon Heller!
 
