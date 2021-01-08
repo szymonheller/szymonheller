@@ -7,4 +7,4 @@ I'm a web developer, living in Poland. I'm resourceful and I'm always looking fo
 Visit my [Website](https://www.szymonheller.com/)!
 
 ## What I'm doing
-I’m currently learning JavaScript and React.js
+I’m currently learning Angular.
