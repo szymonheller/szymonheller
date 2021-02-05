@@ -12,5 +12,5 @@
 
 <h2 align="center">  What I'm doing </h2>
 
-<p align="center"> I’m currently learning Angular. </p>
+<p align="center"> I currently learn Angular. </p>
 
