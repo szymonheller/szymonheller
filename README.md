@@ -11,8 +11,3 @@
 
 <p align="center"> <a href="https://www.szymonheller.com/"> Visit my website! </a> </p>
 
-
-<h2 align="center">  What I'm doing </h2>
-
-<p align="center"> I currently learn Angular. </p>
-
